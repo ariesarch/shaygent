@@ -1,0 +1,1 @@
+<!-- uv run python -c "from pathlib import Path; p = Path('calculator/lorem.txt'); p.write_text(('Lorem ipsum dolor sit amet, consectetur adipiscing elit. ' * 400), encoding='utf-8')" -->
